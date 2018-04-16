@@ -1,3 +1,8 @@
+/*25. Check whether a given string is palindrome also check whether it has atleast 2 different vowels 
+input: "madam" 
+output: false(no 2 diff vowels) 
+*/
+
 /*import java.util.Scanner;
 import java.util.Iterator;
 import java.util.LinkedHashSet;

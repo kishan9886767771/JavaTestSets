@@ -1,3 +1,6 @@
+//4.Given two integer arrays. merge the common elements into a new array. find the sum of the elements input1:{1,2,3,4} input2:{3,4,5,6} logic:{3,4} output:7 
+
+
 import java.util.Arrays;
 import java.util.HashSet;
 

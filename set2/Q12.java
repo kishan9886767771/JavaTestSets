@@ -1,3 +1,8 @@
+//12.A time input is received as stirng. Find if the hour format is in 12 hour format. the suffix am/pm is case insensitive. 
+//input:"09:36 am" 
+//output:true 
+
+
 import java.text.*;
 import java.util.*;
 public class Q12 {

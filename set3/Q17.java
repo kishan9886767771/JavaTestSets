@@ -1,3 +1,8 @@
+//17. A integer input is accepted. find the square of individual digits and find their sum. 
+//input:125 
+//output:1*1+2*2+5*5 
+
+
 import java.io.*;
 class Q17 
 {

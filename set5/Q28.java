@@ -1,3 +1,14 @@
+/*1) Given a method with a date string in format dd/mm/yyyy.
+Write code to validate the given date against the given formate.
+if it is a valid date return 1 else return -1.
+Example1:
+Input= 12/06/1987
+output=1
+Example1:
+Input= 03/1/1987
+output=-1
+*/
+
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;

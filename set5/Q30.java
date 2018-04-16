@@ -1,3 +1,11 @@
+/*3) Given a method with a HasMap<Integer,String> as input.Write
+code to remove all the entries having keys multiple of 4 and
+return the size of the final hasmap.
+Example:
+Input={{2,"hi"}{8,"hello"}{12,"hellow world"}}
+output=1
+*/
+
 import java.util.Map.Entry;
 import java.util.*;
 

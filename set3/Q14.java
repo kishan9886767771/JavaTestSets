@@ -1,3 +1,8 @@
+//14.find the max length-word in a given string and return the max-length word. if two words are of same length return the first occuring word of max-length 
+//input:"hello how are you aaaaa" 
+//output:hello(length-5) 
+
+
 import java.util.*;
 public class Q14 {
 	public static String lengthiestString(String s1){

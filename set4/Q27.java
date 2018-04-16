@@ -1,3 +1,9 @@
+/*27. Get a input string. Find if it is a negative number, if true return the absolute value, in other cases return -1. 
+input: "-123" 
+output: 123 
+input: "@123" 
+output: -1*/
+
 import java.util.*;
 public class Q27 {
 	public static int negativeString(String s1){

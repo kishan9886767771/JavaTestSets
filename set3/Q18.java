@@ -1,3 +1,12 @@
+/*18.Two input strings are accepted. If the two strings are of same length concat them and return, if they are not of same length, reduce the longer string to size of smaller one, and concat them 
+input1:"hello" 
+input2:"hi" 
+output:"lohi" 
+input1:"aaa" 
+input2:"bbb" 
+output:"aaabbb" 
+*/
+
 import java.util.*;
 public class Q18 {
 	public static String concatStrings(String s1,String s2)

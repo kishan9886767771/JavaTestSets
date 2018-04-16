@@ -1,3 +1,9 @@
+//13.Retrieve the palindorme-true number set from given number limit and return the sum 
+//input1:90 input2:120 
+//logic:99+101+111 
+//output:311 
+
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;

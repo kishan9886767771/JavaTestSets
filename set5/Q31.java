@@ -1,3 +1,11 @@
+/*4) Given a method with a positive number as input.write a code to
+calculate the sum of squares of individual digiths of given
+number.Return it as output.
+Example:
+Input=321
+output=(3*3+2*2+1*1)=14
+*/
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

@@ -1,3 +1,8 @@
+/*21.Find the extension of a given string file. 
+input: "hello.jpeg" 
+output: "jpeg" 
+*/
+
 import java.util.*;
 public class Q21 {
 	public static String extensionString(String s1){

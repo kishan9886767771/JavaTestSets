@@ -1,3 +1,8 @@
+//16. HashMap with regnum as key and mark as value. find the avg of marks whose key is odd. 
+//input:{12:90,35:90,33:90,56:88} 
+//output:avg of(90+90) =90 
+
+
 import java.util.*;
 public class Q16 {
  public static int averageOfMarks(Map<Integer,Integer> m1){

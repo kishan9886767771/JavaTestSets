@@ -1,3 +1,8 @@
+//7. Retrieve the odd numbers till given input number. add and subtract it consecutively and return the result. 
+//Input:9 
+//Output:1+3-5+7-9=-3 
+
+
 import java.util.Scanner;
 
 

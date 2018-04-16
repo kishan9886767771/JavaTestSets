@@ -1,4 +1,6 @@
-
+//5.Given two arrayslist. retrieve the odd position elements form first input and even position elemetns from second list. 
+//put it into the new arraylist at the same positions from where they are retrieved from. 
+//(consider 0th position as even position, and two lists are of same size) input1:{12,1,32,3} input2:{0,12,2,23} output:{0,1,2,3}
 public class RetreiveArray {
 	public static int[] retrievePosition(int[] a,int[] b){
 		int[] c=new int[a.length];

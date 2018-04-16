@@ -1,3 +1,9 @@
+/*20. Get a integer array as input. Find the average of the elements which are in the position of prime index 
+input:{1,2,3,4,5,6,7,8,9,10} 
+logic:3+4+6+8(the indeces are prime numbers) 
+output:21 
+*/
+
 import java.util.*;
 public class Q20 {
 	public static int sumOfPrimeIndices(int[] a,int n){

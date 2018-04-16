@@ -1,3 +1,9 @@
+//11.Two inputs of a string array and a string is received. The array shld be sorted in descending order. The index of second input in a array shld be retrieved. 
+//input1:{"ga","yb","awe"} 
+//input2:awe 
+//output:2 
+
+
 import java.util.*;
 public class Q11 {
 	public static void main(String[] args) {

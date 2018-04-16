@@ -1,3 +1,4 @@
+//2.Find the day(Friday) of a date input given as MM-dd-yyyy (format) input:12-27-2012 output:Thursday 
 import java.util.*;
 import java.text.*;
 public class Date {

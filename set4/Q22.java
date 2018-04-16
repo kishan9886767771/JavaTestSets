@@ -1,3 +1,9 @@
+/*22.Get two integer arrays as input. Find if there are common elements in the arrays. find the number of common elements. 
+input1: {1,2,3,4} 
+input2: {3,4,5,6} 
+output: 4(3,4,3,4) 
+*/
+
 public class Q22 {
  
     public static void main(String a[]){

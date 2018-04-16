@@ -1,3 +1,8 @@
+//15. Get a input string. reverse it and parse it with '-'. 
+//input:computer 
+//output:r-e-t-u-p-m-o-c 
+
+
 import java.util.*;
 public class Q15 {
 	

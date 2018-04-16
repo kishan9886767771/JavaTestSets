@@ -1,3 +1,10 @@
+/*19.accept a string and find if it is of date format "dd/mm/yyyy". 
+Core Java Practice Questions 
+©NIIT Ltd. 
+input:01/13/2012 
+output:false 
+*/
+
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;

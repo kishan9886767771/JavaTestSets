@@ -1,3 +1,13 @@
+/*5) Given a method taking string as input.Write code to check if
+given string contains exactly five vowels and the vowels
+should be alphabetical order.return 1 if condition is satisfied else
+return 2.assume there is no repetition of any vowel in any given
+string.
+Example:
+Input=acebisouzz
+output=1
+*/
+
 public class Q32 {
 	public static int palindromeAndVowelCheck(String s)
 	{

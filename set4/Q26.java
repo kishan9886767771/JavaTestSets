@@ -1,3 +1,7 @@
+/*26. Find no of characters in a given string which are not repeated. 
+input: "hello" 
+output: 3 
+*/
 public class Q26 {
 public static int noOfnonRepeatedCharacters(String s1){
 		StringBuffer sb=new StringBuffer(s1);

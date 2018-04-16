@@ -1,3 +1,8 @@
+//8. Given date in dd-MM-yyyy format.return the month in full name format(January) 
+//input:"23-01-2012" 
+//output:January 
+
+
 import java.text.SimpleDateFormat;
 import java.util.Date;
 

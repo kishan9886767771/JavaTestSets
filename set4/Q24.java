@@ -1,3 +1,8 @@
+/*24. Input a int array. Square the elements in even position and cube the elements in odd position and add them as result. 
+input: {1,2,3,4} 
+output: 1^3+2^2+3^3+4^2 
+*/
+
 public class Q24 {
 public static int squaringAndCubingOfElements(int[] a){
 	int n1=0,n2=0;

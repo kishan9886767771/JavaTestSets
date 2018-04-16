@@ -1,3 +1,11 @@
+/*2) Given a methodtaking a person name in the formate-"FirstName
+lastName".write code to return the person name in the following
+formate-"LastName","InitialOfName".
+Example:
+Input:Jessica Miller
+output:Miller,J
+*/
+
 import java.util.*;
 
 class Q29{

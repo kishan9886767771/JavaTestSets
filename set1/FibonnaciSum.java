@@ -1,3 +1,5 @@
+//6. Sum of fibonaaci series upto given input. input:3 logic:1+1+2 output:4 
+
 import java.util.Scanner;
 
 
